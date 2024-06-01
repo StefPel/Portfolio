@@ -20,7 +20,6 @@ Je suis une consultante en transformation digitale passionnée par l'innovation 
 - **Prompt Engineering** : Conception de prompts pour les modèles de langage afin d'améliorer l'interaction avec les IA.
 - **Design UX/UI** : Création d'interfaces intuitives et esthétiques qui améliorent l'expérience utilisateur.
 - **Développement Web** : Utilisation des technologies modernes (HTML, CSS, JavaScript, React, WordPress) pour développer des sites web performants et réactifs.
-- **Intelligence Artificielle** : Intégration et optimisation des interactions avec les modèles de langage et les technologies IA pour améliorer la productivité et l'engagement des utilisateurs.
 
 ## Projets
 
