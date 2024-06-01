@@ -15,11 +15,12 @@ Je suis une consultante en transformation digitale passionnée par l'innovation 
 
 ## Compétences
 
-- **Marketing Digital** : Optimisation du SEO et gestion de contenu pour augmenter la visibilité en ligne et attirer plus de trafic qualifié.
-- **Green Web** : Développement durable et écologique pour le web, visant à réduire l'empreinte carbone des sites internet.
-- **Prompt Engineering** : Conception de prompts pour les modèles de langage afin d'améliorer l'interaction avec les IA.
-- **Design UX/UI** : Création d'interfaces intuitives et esthétiques qui améliorent l'expérience utilisateur.
-- **Développement Web** : Utilisation des technologies modernes (HTML, CSS, JavaScript, React, WordPress) pour développer des sites web performants et réactifs.
+- **📈 Marketing Digital** : Optimisation du SEO et gestion de contenu pour augmenter la visibilité en ligne et attirer plus de trafic qualifié.
+- **🌿 Green Web** : Développement durable et écologique pour le web, visant à réduire l'empreinte carbone des sites internet.
+- **🤖 Prompt Engineering** : Conception de prompts pour les modèles de langage afin d'améliorer l'interaction avec les IA.
+- **🎨 Design UX/UI** : Création d'interfaces intuitives et esthétiques qui améliorent l'expérience utilisateur.
+- **💻 Développement Web** : Utilisation des technologies modernes (HTML, CSS, JavaScript, React, WordPress) pour développer des sites web performants et réactifs.
+- **🧠 Intelligence Artificielle** : Intégration et optimisation des interactions avec les modèles de langage et les technologies IA pour améliorer la productivité et l'engagement des utilisateurs.
 
 ## Projets
 
